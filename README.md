@@ -189,3 +189,10 @@ Exemplo:
 ## 🏁 Conclusão
 
 A Inteligência Artificial se mostrou uma grande aliada no desenvolvimento Front-end, permitindo criar soluções mais rápidas, eficientes e com maior qualidade. Seu uso tende a crescer cada vez mais no mercado de tecnologia.
+
+--
+
+## 🔗 Link do Projeto
+
+Repositório disponível em:
+https://github.com/heloisaeirasmir/miniguia-frontend-ia
