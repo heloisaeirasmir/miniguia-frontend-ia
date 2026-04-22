@@ -1,29 +1,71 @@
-# Miniguia de Estudos: Front-end + Inteligência Artificial
+# 🚀 Miniguia de Estudos: Front-end + Inteligência Artificial
 
-## Contexto e Objetivos
+## 🎯 Contexto e Objetivos
 
-Com o crescimento da Inteligência Artificial no desenvolvimento web, escolhi estudar como a IA pode auxiliar no desenvolvimento Front-end, tornando o processo mais rápido, eficiente e inteligente.
+Com o avanço da Inteligência Artificial no desenvolvimento web, escolhi estudar como a IA pode ser aplicada no Front-end para aumentar produtividade, melhorar a qualidade dos projetos e criar interfaces mais modernas.
 
 ### Objetivos:
 
-* Entender como a IA pode auxiliar na criação de interfaces
-* Aprender a gerar código Front-end com IA
-* Melhorar produtividade no desenvolvimento
-* Criar soluções mais modernas e otimizadas
+* Entender como a IA auxilia no desenvolvimento Front-end
+* Aprender a gerar código com IA
+* Melhorar a qualidade de interfaces (UI/UX)
+* Aumentar produtividade no desenvolvimento
 
 ---
 
 ## 🔎 Curadoria de Fontes
 
-1. https://developer.mozilla.org/pt-BR/
-2. https://www.w3schools.com/
-3. https://react.dev/
-4. https://openai.com/
-5. https://vercel.com/blog
+* https://developer.mozilla.org/pt-BR/
+* https://www.w3schools.com/
+* https://react.dev/
+* https://openai.com/
+* https://vercel.com/blog
 
 ---
 
-## Engenharia de Prompts
+## 📓 Uso do NotebookLM
+
+Utilizei o NotebookLM como ferramenta de apoio para organizar os estudos e obter respostas baseadas em fontes confiáveis.
+
+### 🔹 Fontes utilizadas no NotebookLM:
+
+* https://developer.mozilla.org/
+* https://react.dev/
+* https://openai.com/
+
+### 🔹 Perguntas realizadas:
+
+**Pergunta 1:**
+Como a Inteligência Artificial pode ajudar no desenvolvimento Front-end?
+
+📌 Resposta resumida:
+A IA pode auxiliar na geração de código, criação de layouts, automação de tarefas, identificação de erros e melhoria da experiência do usuário.
+
+---
+
+**Pergunta 2:**
+Explique React de forma simples
+
+📌 Resposta:
+React é uma biblioteca JavaScript que permite criar interfaces de forma organizada através de componentes reutilizáveis.
+
+---
+
+**Pergunta 3:**
+Como melhorar a performance de um site Front-end?
+
+📌 Resposta:
+Melhorando o carregamento de imagens, reduzindo arquivos CSS/JS, utilizando boas práticas de código e ferramentas de otimização.
+
+---
+
+### 🔹 Aprendizado:
+
+O NotebookLM facilitou a organização das informações e tornou o aprendizado mais eficiente, trazendo respostas mais direcionadas com base nas fontes selecionadas.
+
+---
+
+## 🤖 Engenharia de Prompts
 
 ### 🔹 Prompt 1:
 
@@ -33,10 +75,10 @@ Com o crescimento da Inteligência Artificial no desenvolvimento web, escolhi es
 Código funcional, porém genérico.
 
 📌 Ajuste:
-"Crie um layout moderno em HTML e CSS para um site de academia, com foco em conversão"
+"Crie um layout moderno em HTML e CSS para um site de academia com foco em conversão"
 
 📌 Resultado melhorado:
-Design mais estratégico e direcionado ao público.
+Layout mais estratégico, com foco em vendas e melhor experiência do usuário.
 
 ---
 
@@ -48,10 +90,10 @@ Design mais estratégico e direcionado ao público.
 Resposta pouco específica.
 
 📌 Ajuste:
-"Otimize este CSS melhorando performance, organização e responsividade"
+"Otimize este CSS melhorando organização, performance e responsividade"
 
 📌 Resultado:
-Código mais limpo e profissional.
+Código mais limpo, organizado e profissional.
 
 ---
 
@@ -59,11 +101,11 @@ Código mais limpo e profissional.
 
 "Crie um componente em React"
 
-📌 Ajuste avançado:
-"Crie um componente em React com boas práticas, responsivo e com foco em UX"
+📌 Ajuste:
+"Crie um componente em React com boas práticas, responsivo e focado em UX"
 
 📌 Resultado:
-Código mais estruturado e reutilizável.
+Componente mais estruturado e reutilizável.
 
 ---
 
@@ -71,34 +113,35 @@ Código mais estruturado e reutilizável.
 
 ### 🔹 O que é Front-end?
 
-Front-end é a parte visual de um site, responsável pela interação com o usuário.
+Front-end é a parte visual de um site ou sistema, responsável pela interação com o usuário.
 
 ---
 
 ### 🔹 Tecnologias principais:
 
-* HTML → Estrutura
-* CSS → Estilo
-* JavaScript → Interatividade
-* React → Componentização
+* HTML → estrutura do site
+* CSS → estilo e design
+* JavaScript → interatividade
+* React → criação de interfaces com componentes
 
 ---
 
 ### 🔹 Como a IA ajuda no Front-end:
 
 ✔ Geração de código
-✔ Sugestões de layout
+✔ Sugestão de layouts
 ✔ Correção de erros
 ✔ Otimização de performance
 ✔ Criação de componentes
 
 ---
 
-### 🔹 Exemplos práticos:
+### 🔹 Aplicações práticas:
 
-* Criar landing pages com IA
-* Gerar interfaces automaticamente
-* Melhorar UX/UI com sugestões inteligentes
+* Criação de landing pages
+* Desenvolvimento mais rápido
+* Melhoria de UX/UI
+* Automação de tarefas repetitivas
 
 ---
 
@@ -113,14 +156,14 @@ Front-end é a parte visual de um site, responsável pela interação com o usu�
 
 ## 🔁 Prompts Reutilizáveis
 
-* "Crie uma landing page moderna em HTML, CSS e JS"
-* "Otimize este código front-end"
-* "Crie um componente React profissional"
-* "Melhore a experiência do usuário neste layout"
-* "Sugira melhorias de UI para este site"
+* Crie uma landing page moderna em HTML, CSS e JavaScript
+* Otimize este código Front-end
+* Crie um componente React profissional
+* Sugira melhorias de UI para este site
+* Analise este layout e melhore a experiência do usuário
 
 ---
 
 ## 🏁 Conclusão
 
-A Inteligência Artificial se mostrou uma ferramenta poderosa para acelerar o desenvolvimento Front-end, melhorar a qualidade do código e trazer soluções mais inteligentes para o mercado digital.
+A Inteligência Artificial se mostrou uma grande aliada no desenvolvimento Front-end, permitindo criar soluções mais rápidas, eficientes e com maior qualidade. Seu uso tende a crescer cada vez mais no mercado de tecnologia.
