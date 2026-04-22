@@ -1,4 +1,12 @@
-# 🚀 Miniguia de Estudos: Front-end + Inteligência Artificial
+# 🚀 Front-end + Inteligência Artificial | Miniguia de Estudos
+
+## 👩‍💻 Sobre este projeto
+
+Este projeto foi desenvolvido como parte de um desafio da DIO, com o objetivo de aplicar Inteligência Artificial no aprendizado de Front-end.
+
+Durante o processo, explorei como a IA pode ajudar na geração de código, organização de estudos e melhoria da produtividade.
+
+---
 
 ## 🎯 Contexto e Objetivos
 
@@ -61,7 +69,9 @@ Melhorando o carregamento de imagens, reduzindo arquivos CSS/JS, utilizando boas
 
 ### 🔹 Aprendizado:
 
-O NotebookLM facilitou a organização das informações e tornou o aprendizado mais eficiente, trazendo respostas mais direcionadas com base nas fontes selecionadas.
+Com o uso do NotebookLM, consegui organizar melhor os conteúdos e entender os conceitos com mais clareza.
+
+Percebi que a IA não substitui o aprendizado, mas acelera muito o processo e ajuda a ter uma visão mais prática e estratégica do desenvolvimento Front-end.
 
 ---
 
@@ -161,6 +171,18 @@ Front-end é a parte visual de um site ou sistema, responsável pela interação
 * Crie um componente React profissional
 * Sugira melhorias de UI para este site
 * Analise este layout e melhore a experiência do usuário
+
+---
+
+## 📸 Possível aplicação prática
+
+Este conhecimento pode ser aplicado na criação de sites mais modernos, rápidos e eficientes, utilizando IA como apoio no desenvolvimento.
+
+Exemplo:
+
+* Landing pages com foco em conversão
+* Interfaces modernas para academias
+* Projetos web com melhor experiência do usuário
 
 ---
 
