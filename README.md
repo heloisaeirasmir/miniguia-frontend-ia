@@ -1,6 +1,6 @@
-# 🚀 Miniguia de Estudos: Front-end + Inteligência Artificial
+# Miniguia de Estudos: Front-end + Inteligência Artificial
 
-## 🎯 Contexto e Objetivos
+## Contexto e Objetivos
 
 Com o crescimento da Inteligência Artificial no desenvolvimento web, escolhi estudar como a IA pode auxiliar no desenvolvimento Front-end, tornando o processo mais rápido, eficiente e inteligente.
 
@@ -23,7 +23,7 @@ Com o crescimento da Inteligência Artificial no desenvolvimento web, escolhi es
 
 ---
 
-## 🤖 Engenharia de Prompts
+## Engenharia de Prompts
 
 ### 🔹 Prompt 1:
 
